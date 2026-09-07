@@ -19,7 +19,7 @@ Câu 5: Để kiểm tra xem một biến có phải là số nguyên hay không
 
 
 
-<?php
+
 // Bai 1: In ra cac so chan tu 1 den 10
 
 for ($i = 1; $i <= 10; $i++) {
